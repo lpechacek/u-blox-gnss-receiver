@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name compact-design-neo)(type KiCad)(uri ${KIPRJMOD}/compact-design-neo.pretty)(options "")(descr ""))
+)

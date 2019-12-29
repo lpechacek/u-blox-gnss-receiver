@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name li-ion-battery_chargers)(type Legacy)(uri ${KIPRJMOD}/li-ion-battery_chargers.lib)(options "")(descr ""))
+)
